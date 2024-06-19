@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas.hillys\\Desktop\\Meus programas\\Exercicio\\Exercicio\\Exercicio.csproj": {}
+    "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Projetos C#\\Exercicio\\Exercicio\\Exercicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas.hillys\\Desktop\\Meus programas\\Exercicio\\Exercicio\\Exercicio.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Projetos C#\\Exercicio\\Exercicio\\Exercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas.hillys\\Desktop\\Meus programas\\Exercicio\\Exercicio\\Exercicio.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Projetos C#\\Exercicio\\Exercicio\\Exercicio.csproj",
         "projectName": "Exercicio",
-        "projectPath": "C:\\Users\\lucas.hillys\\Desktop\\Meus programas\\Exercicio\\Exercicio\\Exercicio.csproj",
-        "packagesPath": "C:\\Users\\lucas.hillys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas.hillys\\Desktop\\Meus programas\\Exercicio\\Exercicio\\obj\\",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Projetos C#\\Exercicio\\Exercicio\\Exercicio.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Projetos C#\\Exercicio\\Exercicio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lucas.hillys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
